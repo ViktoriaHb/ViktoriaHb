@@ -1,5 +1,5 @@
 
-### Hello there! 
+# Hello there! 
 Here, you'll find some information about me, the languages I'm currently learning, and my interests.
 
 ### About Me
