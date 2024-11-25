@@ -5,8 +5,9 @@ Here, you'll find some information about me, the languages I'm currently learnin
 ### About Me
 
 - **Name:** ViktoriaHb
-- **Age:** 21
-- **Education:** I am currently studying at Universität Paderborn.
+- **Age:** 22
+- **Education:** I’m a Computer Science student in my 5th semester at Universität Paderborn.
+I’m a motivated and structured individual with practical experience in IT support and software development. I thrive on analyzing and solving technical challenges and am always eager to learn and grow in the IT field.
 
 ### Current Languages I'm Learning
 
