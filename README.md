@@ -7,8 +7,8 @@
 ║  STATUS      : ONLINE                                    ║
 ║  ROLE        : COMPUTER SCIENCE STUDENT                  ║
 ║  LOCATION    : PADERBORN, GERMANY                        ║
-║  CURRENT JOB : IT OPERATIONS & INFRASTRUCTURE            ║
-║  INTERESTS   : SYSTEMS / SECURITY / HARDWARE / GAMES     ║
+║  CURRENT JOB : IT OPERATIONS & INFRASTRUCTURE             ║
+║  INTERESTS   : SYSTEMS / SECURITY / HARDWARE / GAMES      ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -47,7 +47,7 @@ January 2025 - Present
 - Handle IT service, hardware, and infrastructure requests.
 - Support onboarding and offboarding processes, including user and mailbox provisioning.
 - Contribute to endpoint lifecycle management through the replacement, preparation, and administration of notebooks and other hardware.
-- Analyse and prioritize security- and vulnerability-related topics.
+- Analyse and prioritize security and vulnerability-related topics.
 - Support certificate and password management activities.
 - Use ticketing and planning systems to organize work transparently and reliably.
 - Collaborate with experienced colleagues on infrastructure projects and modernization initiatives.
@@ -147,7 +147,7 @@ And sometimes the solution is, unfortunately, turning it off and on again.
 ### Operating Systems
 
 `Windows` `Windows Server`  
-`Linux` `Ubuntu` `Debian`  
+`Linux` `Linux Server` `Ubuntu` `Debian`  
 `WSL`
 
 ### Virtualization & Containers
@@ -172,6 +172,8 @@ And sometimes the solution is, unfortunately, turning it off and on again.
 `Uptime Kuma`  
 `Grafana`  
 `Prometheus`
+`Enginsight`
+`SIEM`
 
 ### Infrastructure & Orchestration
 
@@ -210,15 +212,15 @@ And sometimes the solution is, unfortunately, turning it off and on again.
 
 ```text
 [████████████████░░░░]  Infrastructure
+[███████████████░░░░░]  Systems Administration
 [██████████████░░░░░░]  Cybersecurity
-[█████████████░░░░░░░]  Systems Administration
 [████████████░░░░░░░░]  Containers & Virtualization
-[██████████░░░░░░░░░░]  Kubernetes
 [███████████░░░░░░░░░]  Game Development
 [██████████░░░░░░░░░░]  Electronics & Hardware
+[███░░░░░░░░░░░░░░░░░]  K8s
 ```
 
-Currently expanding my practical knowledge of infrastructure, cybersecurity, systems administration, containers, virtualization, Kubernetes, game development, and hardware troubleshooting.
+Currently expanding my practical knowledge of infrastructure, systems administration, cybersecurity, containers, virtualization, and K8s, while continuing to explore game development and hardware.
 
 There is always something else to learn.
 
@@ -226,9 +228,9 @@ There is always something else to learn.
 
 ## `07 // CERTIFICATIONS & TRAINING`
 
-- **Introduction to Virtualization - 90 Minute Crash Course** — Udemy, 2025
-- **Introduction to Firewalls - 2 Hour Beginner Crash Course** — Udemy, 2025
-- **Introduction to Computer Networking – Beginner Crash Course** — Udemy, 2025
+- **Introduction to Virtualization - 90 Minute Crash Course** - Udemy, 2025
+- **Introduction to Firewalls - 2 Hour Beginner Crash Course** - Udemy, 2025
+- **Introduction to Computer Networking - Beginner Crash Course** - Udemy, 2025
 - **Linux for Beginners** - Udemy, 2025
 - **Python Basics** - HackerRank, 2024
 - **SQL Basics** - HackerRank, 2024
@@ -238,15 +240,22 @@ There is always something else to learn.
 ## `08 // END OF FILE`
 
 ```text
-C:\VIKTORIA> git status
-
-Projects       .......... found
-Experiments    .......... found
-Documentation  .......... found
-Broken Hardware.......... probably
-Virtual Machines......... running
-Containers      .......... probably running
-Coffee         .......... required
+┌──────────────────────────────────────────────────────────┐
+│ VIKTORIA SYSTEMS // SESSION SUMMARY                      │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  PROJECTS              [ OK ]                            │
+│  EXPERIMENTS           [ OK ]                            │
+│  DOCUMENTATION         [ OK ]                            │
+│  VIRTUAL MACHINES      [RUNNING]                         │
+│  CONTAINERS            [RUNNING]                         │
+│  BROKEN HARDWARE       [INVESTIGATING]                   │
+│  COFFEE                [REQUIRED]                        │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│  SYSTEM STATUS: ONLINE                                   │
+│  THANK YOU FOR VISITING.                                 │
+└──────────────────────────────────────────────────────────┘
 
 C:\VIKTORIA> _
 ```
