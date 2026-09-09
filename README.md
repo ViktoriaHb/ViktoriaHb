@@ -1,4 +1,4 @@
-# ViktoriaHb
+# Hi, I'm Viktoria
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
@@ -12,23 +12,37 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-Hi, I'm Viktoria.
-
 I'm a Computer Science student at the University of Paderborn and a working student in IT Operations & Infrastructure.
 
 I like figuring out how things work, why they stop working, and what can be done to make them work again.
 
 My interests range from infrastructure, systems administration, and cybersecurity to hardware repair, retro consoles, and game development.
 
-This GitHub is essentially my digital workbench: professional projects, university work, experiments, documentation, and the occasional project that started with *"I wonder if I can build this."*
+This GitHub is essentially my digital workbench: professional projects, university work, experiments, documentation, and the occasional project that started with:
+
+> "I wonder if I can build this."
+
+---
+
+## `00 // ABOUT THE HUMAN`
+
+Outside of university and IT operations, I tend to collect hobbies that involve taking things apart and asking myself whether I can put them back together.
+
+I enjoy old technology, especially retro consoles, because repairing them feels very different from working with modern hardware. You get to understand what is actually happening instead of simply replacing the entire device.
+
+I also enjoy game development, experimenting with software, and documenting things I learn along the way.
+
+My general approach to technology is fairly simple:
+
+> If I don't understand how it works, I want to find out.
 
 ---
 
 ## `01 // PROFESSIONAL EXPERIENCE`
 
-### Working Student in IT Operations & Infrastructure
-**OPTANO GmbH**  
-January 2025 - Present
+### Working Student in IT Operations & Infrastructure — OPTANO GmbH
+
+January 2025 – Present
 
 - Handle IT service, hardware, and infrastructure requests.
 - Support onboarding and offboarding processes, including user and mailbox provisioning.
@@ -44,9 +58,9 @@ January 2025 - Present
 - Perform routine Debian patching and maintenance to support system stability and security.
 - Support application and infrastructure maintenance to contribute to service reliability and operational continuity.
 
-### First-Level IT Support
-**Octogate GmbH**  
-August 2024 - January 2025
+### First-Level IT Support — Octogate GmbH
+
+August 2024 – January 2025
 
 - Supported users with IT incidents and service requests.
 - Gained practical experience with Ubuntu/Linux servers, Active Directory, and firewalls.
@@ -58,16 +72,18 @@ August 2024 - January 2025
 
 ### Infrastructure Modernization & Kubernetes
 
-Contribute to an infrastructure modernization project, including support for building a Kubernetes cluster.
+Contribute to an infrastructure modernization project, including introductory work with Kubernetes.
 
-My role focuses on assigned project tasks, practical learning, documentation, and close coordination with experienced colleagues.
+My current Kubernetes experience is focused on learning the fundamentals and gaining practical experience by setting up and experimenting with a small cluster using Docker and Portainer.
 
 **Focus areas:**  
-`Infrastructure Operations` `Kubernetes` `Linux` `System Administration` `Documentation` `Technical Coordination`
+`Infrastructure Operations` `Linux` `Docker` `Portainer` `Kubernetes` `System Administration` `Documentation` `Technical Coordination`
 
 ---
 
 ## `03 // PERSONAL PROJECTS`
+
+A collection of personal and university projects, experiments, and small things I built because I wanted to understand how they work.
 
 ### PDF to MP3 Converter
 
@@ -81,13 +97,27 @@ A small 2D adventure game developed with Godot and GDScript.
 
 Python visual-programming experiments using Turtle graphics and mathematical functions.
 
+### More Experiments
+
+Not every project here is intended to become a product.
+
+Some exist because I wanted to know whether I could build something.
+
+Some started as university exercises.
+
+Some became useful.
+
+Some absolutely did not.
+
+They're all part of how I learn.
+
 ---
 
 ## `04 // RETRO LAB`
 
 Not everything I like working with has an SSD.
 
-I also enjoy diagnosing, repairing, modifying, and restoring older hardware - particularly retro game consoles.
+I also enjoy diagnosing, repairing, modifying, and restoring older hardware — particularly retro game consoles.
 
 There is something strangely satisfying about taking a device that hasn't worked properly in years, figuring out what went wrong, replacing the faulty component, and seeing it come back to life.
 
@@ -112,43 +142,67 @@ And sometimes the solution is, unfortunately, turning it off and on again.
 
 ---
 
-## `05 // TECHNICAL INTERESTS`
+## `05 // TECHNICAL TOOLBOX`
 
-### IT Operations & Support
+### Operating Systems
+
+`Windows` `Windows Server`  
+`Linux` `Ubuntu` `Debian`  
+`WSL`
+
+### Virtualization & Containers
+
+`Hyper-V` `Virtual Machines`  
+`Docker` `Portainer`
+
+### Infrastructure & Networking
+
+`Active Directory`  
+`TCP/IP` `DNS` `DHCP`  
+`Firewalls` `SSH`  
+`Nginx` `Let's Encrypt` `TLS / SSL`
+
+### Identity & Application Infrastructure
+
+`Keycloak`  
+`ProGet`
+
+### Monitoring
+
+`Uptime Kuma`  
+`Grafana`  
+`Prometheus`
+
+### Infrastructure & Orchestration
+
+`Kubernetes` *(currently learning)*
+
+### IT Operations
 
 `IT Service Management`  
 `Endpoint & Hardware Lifecycle`  
-`User / Device / Mailbox Provisioning`  
-`Technical Documentation`  
-`Prioritization`  
-`Stakeholder Communication`
-
-### Systems & Infrastructure
-
-`Active Directory`  
-`Linux / Ubuntu`  
-`Networking`  
-`Firewalls`  
-`Kubernetes`  
 `Certificate Management`  
-`System Administration`
+`Patch Management`  
+`Technical Documentation`
 
-### Security
+### Microsoft & Productivity
 
-`Security Operations`  
-`Vulnerability Management`  
-`Password Management`  
-`Infrastructure Security`
+`Microsoft 365`  
+`Microsoft Teams`  
+`Outlook`  
+`Planner`  
+`Easy Redmine`
 
-### Tools
+### Development & Databases
 
-`Microsoft 365` `Teams` `Planner` `Outlook`  
-`Easy Redmine` `Git` `GitHub` `MySQL`  
-`Bash` `PowerShell` `PuTTY`
+`Git` `GitHub`  
+`MySQL`  
+`Bash` `PowerShell`
 
 ### Programming
 
-`Python` `C#` `C` `SQL` `Prolog` `Racket` `HTML` `JavaScript` `Powershell`
+`Python` `C#` `C` `SQL`  
+`Prolog` `Racket` `HTML` `JavaScript`
 
 ---
 
@@ -158,22 +212,26 @@ And sometimes the solution is, unfortunately, turning it off and on again.
 [████████████████░░░░]  Infrastructure
 [██████████████░░░░░░]  Cybersecurity
 [█████████████░░░░░░░]  Systems Administration
+[████████████░░░░░░░░]  Containers & Virtualization
+[██████████░░░░░░░░░░]  Kubernetes
 [███████████░░░░░░░░░]  Game Development
 [██████████░░░░░░░░░░]  Electronics & Hardware
 ```
 
-Currently working on expanding my practical knowledge of infrastructure, cybersecurity, systems administration, game development, and hardware troubleshooting.
+Currently expanding my practical knowledge of infrastructure, cybersecurity, systems administration, containers, virtualization, Kubernetes, game development, and hardware troubleshooting.
+
+There is always something else to learn.
 
 ---
 
 ## `07 // CERTIFICATIONS & TRAINING`
 
-- **Introduction to Virtualization – 90 Minute Crash Course** - Udemy, 2025
-- **Introduction to Firewalls – 2 Hour Beginner Crash Course** - Udemy, 2025
-- **Introduction to Computer Networking – Beginner Crash Course** - Udemy, 2025
-- **Linux for Beginners** - Udemy, 2025
-- **Python Basics** - HackerRank, 2024
-- **SQL Basics** - HackerRank, 2024
+- **Introduction to Virtualization – 90 Minute Crash Course** — Udemy, 2025
+- **Introduction to Firewalls – 2 Hour Beginner Crash Course** — Udemy, 2025
+- **Introduction to Computer Networking – Beginner Crash Course** — Udemy, 2025
+- **Linux for Beginners** — Udemy, 2025
+- **Python Basics** — HackerRank, 2024
+- **SQL Basics** — HackerRank, 2024
 
 ---
 
@@ -186,6 +244,8 @@ Projects       .......... found
 Experiments    .......... found
 Documentation  .......... found
 Broken Hardware.......... probably
+Virtual Machines......... running
+Containers      .......... probably running
 Coffee         .......... required
 
 C:\VIKTORIA> _
