@@ -85,17 +85,17 @@ My current Kubernetes experience is focused on learning the fundamentals and gai
 
 A collection of personal and university projects, experiments, and small things I built because I wanted to understand how they work.
 
-### PDF to MP3 Converter
+### `PROJECT ARCHIVE // BUNCH OF PROJECTS`
 
-A Python tool that extracts text from PDF files and converts it into speech audio using PyPDF2 and pyttsx3.
+For smaller experiments, university projects, prototypes, and assorted things I've built:
 
-### First Adventure Game
+**[Open BunchOfProjects →](https://github.com/ViktoriaHb/BunchOfProjects)**
 
-A small 2D adventure game developed with Godot and GDScript.
+### Featured Projects
 
-### Turtle Graphics Projects
-
-Python visual-programming experiments using Turtle graphics and mathematical functions.
+- **PDF to MP3 Converter** - A Python tool that extracts text from PDF files and converts it into speech audio using PyPDF2 and pyttsx3.
+- **First Adventure Game** - A small 2D adventure game developed with Godot and GDScript.
+- **Turtle Graphics Projects** - Python visual-programming experiments using Turtle graphics and mathematical functions.
 
 ### More Experiments
 
@@ -147,7 +147,7 @@ And sometimes the solution is, unfortunately, turning it off and on again.
 ### Operating Systems
 
 `Windows` `Windows Server`  
-`Linux` `Linux Server` `Ubuntu` `Debian`  
+`Linux` `Ubuntu` `Debian`  
 `WSL`
 
 ### Virtualization & Containers
@@ -164,16 +164,17 @@ And sometimes the solution is, unfortunately, turning it off and on again.
 
 ### Identity & Application Infrastructure
 
-`Keycloak`  
+`Keycloak`
+
+### Package & Application Management
+
 `ProGet`
 
-### Monitoring
+### Monitoring & Security
 
 `Uptime Kuma`  
-`Grafana`  
-`Prometheus`
-`Enginsight`
-`SIEM`
+`Grafana` `Prometheus`  
+`Enginsight` `SIEM`
 
 ### Infrastructure & Orchestration
 
