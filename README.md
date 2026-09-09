@@ -4,8 +4,8 @@ I'm a Computer Science student at the University of Paderborn and a working stud
 
 ## Professional Experience
 
-### Working Student in IT Operations & Infrastructure — Octogate GmbH
-August 2024 – Present
+### Working Student in IT Operations & Infrastructure — OPTANO GmbH
+January 2025 – Present
 
 - Handle IT service, hardware, and infrastructure requests.
 - Support onboarding and offboarding processes, including user and mailbox provisioning.
@@ -16,7 +16,8 @@ August 2024 – Present
 - Collaborate with experienced colleagues on infrastructure projects and modernization work.
 - Evaluate new technologies, including local LLMs and application lifecycle management tools.
 
-### Earlier First-Level IT Support Experience
+### First-Level IT Support — Octogate GmbH
+August 2024 – January 2025
 
 - Supported users with IT incidents and service requests.
 - Gained practical experience with Ubuntu/Linux servers, Active Directory, and firewalls.
@@ -52,7 +53,11 @@ A collection of personal and university projects, including:
 
 **Programming:** Python, C#, C, SQL, Prolog, Racket, HTML, JavaScript.
 
-## Certifications
+## Certifications and Professional Development
 
+- Introduction to Virtualization – 90 Minute Crash Course — Udemy Certificate of Completion, 2025
+- Introduction to Firewalls – 2 Hour Beginner Crash Course — Udemy Certificate of Completion, 2025
+- Introduction to Computer Networking – Beginner Crash Course — Udemy Certificate of Completion, 2025
+- Linux for Beginners — Udemy Certificate of Completion, 2025
 - Python Basics — HackerRank, 2024
 - SQL Basics — HackerRank, 2024
