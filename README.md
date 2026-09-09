@@ -7,8 +7,8 @@
 ║  STATUS      : ONLINE                                    ║
 ║  ROLE        : COMPUTER SCIENCE STUDENT                  ║
 ║  LOCATION    : PADERBORN, GERMANY                        ║
-║  CURRENT JOB : IT OPERATIONS & INFRASTRUCTURE             ║
-║  INTERESTS   : SYSTEMS / SECURITY / HARDWARE / GAMES      ║
+║  CURRENT JOB : IT OPERATIONS & INFRASTRUCTURE            ║
+║  INTERESTS   : SYSTEMS / SECURITY / HARDWARE / GAMES     ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -40,9 +40,9 @@ My general approach to technology is fairly simple:
 
 ## `01 // PROFESSIONAL EXPERIENCE`
 
-### Working Student in IT Operations & Infrastructure — OPTANO GmbH
+### Working Student in IT Operations & Infrastructure - OPTANO GmbH
 
-January 2025 – Present
+January 2025 - Present
 
 - Handle IT service, hardware, and infrastructure requests.
 - Support onboarding and offboarding processes, including user and mailbox provisioning.
@@ -58,9 +58,9 @@ January 2025 – Present
 - Perform routine Debian patching and maintenance to support system stability and security.
 - Support application and infrastructure maintenance to contribute to service reliability and operational continuity.
 
-### First-Level IT Support — Octogate GmbH
+### First-Level IT Support - Octogate GmbH
 
-August 2024 – January 2025
+August 2024 - January 2025
 
 - Supported users with IT incidents and service requests.
 - Gained practical experience with Ubuntu/Linux servers, Active Directory, and firewalls.
@@ -117,7 +117,7 @@ They're all part of how I learn.
 
 Not everything I like working with has an SSD.
 
-I also enjoy diagnosing, repairing, modifying, and restoring older hardware — particularly retro game consoles.
+I also enjoy diagnosing, repairing, modifying, and restoring older hardware - particularly retro game consoles.
 
 There is something strangely satisfying about taking a device that hasn't worked properly in years, figuring out what went wrong, replacing the faulty component, and seeing it come back to life.
 
@@ -226,12 +226,12 @@ There is always something else to learn.
 
 ## `07 // CERTIFICATIONS & TRAINING`
 
-- **Introduction to Virtualization – 90 Minute Crash Course** — Udemy, 2025
-- **Introduction to Firewalls – 2 Hour Beginner Crash Course** — Udemy, 2025
+- **Introduction to Virtualization - 90 Minute Crash Course** — Udemy, 2025
+- **Introduction to Firewalls - 2 Hour Beginner Crash Course** — Udemy, 2025
 - **Introduction to Computer Networking – Beginner Crash Course** — Udemy, 2025
-- **Linux for Beginners** — Udemy, 2025
-- **Python Basics** — HackerRank, 2024
-- **SQL Basics** — HackerRank, 2024
+- **Linux for Beginners** - Udemy, 2025
+- **Python Basics** - HackerRank, 2024
+- **SQL Basics** - HackerRank, 2024
 
 ---
 
