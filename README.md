@@ -15,6 +15,11 @@ January 2025 – Present
 - Use ticketing and planning systems to organize work transparently and reliably.
 - Collaborate with experienced colleagues on infrastructure projects and modernization work.
 - Evaluate new technologies, including local LLMs and application lifecycle management tools.
+- Implemented and operate a self-hosted monitoring solution based on Uptime Kuma to improve visibility into service availability.
+- Developed a lightweight availability-check script that provides near-real-time status information for services.
+- Manage TLS certificate renewal for web services using Let's Encrypt and Nginx.
+- Perform routine Debian patching and maintenance to support system stability and security.
+- Support routine application and infrastructure maintenance to contribute to service reliability and operational continuity.
 
 ### First-Level IT Support — Octogate GmbH
 August 2024 – January 2025
@@ -40,6 +45,11 @@ A collection of personal and university projects, including:
 - **PDF to MP3 Converter** — A Python tool that extracts text from PDF files and converts it to speech audio using PyPDF2 and pyttsx3.
 - **First Adventure Game** — A small 2D game developed with Godot and GDScript.
 - **Turtle Graphics Projects** — Python visual-programming exercises using Turtle and mathematical functions.
+
+## Personal Technical Interests
+
+- Hardware diagnostics, maintenance, and repair across PCs, notebooks, servers, and game consoles.
+- Console modification and hardware customization, with a focus on troubleshooting, component replacement, and system restoration.
 
 ## Skills
 
