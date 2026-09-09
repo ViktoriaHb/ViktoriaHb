@@ -1,52 +1,58 @@
+# Hi, I'm Viktoria
 
-# Hello there! 
-Here, you'll find some information about me, the languages I'm currently learning, and my interests.
+I'm a Computer Science student at the University of Paderborn and a working student in IT Operations and Infrastructure. I am building practical experience across IT support, endpoint lifecycle management, security-related operations, and infrastructure modernization.
 
-## About Me
+## Professional Experience
 
-- **Name:** ViktoriaHb
-- **Age:** 22
-- **Education:** I’m a Computer Science student in my 5th semester at Universität Paderborn.
+### Working Student in IT Operations & Infrastructure — Octogate GmbH
+August 2024 – Present
 
-I’m a motivated and structured individual with practical experience in IT support and software development. I thrive on analyzing and solving technical challenges and am always eager to learn and grow in the IT field.
+- Handle IT service, hardware, and infrastructure requests.
+- Support onboarding and offboarding processes, including user and mailbox provisioning.
+- Contribute to endpoint lifecycle management: replacement, preparation, and administration of notebooks and other hardware.
+- Analyse and prioritize security and vulnerability-related topics.
+- Support certificate- and password-management-related activities.
+- Use ticketing and planning systems to organize work transparently and reliably.
+- Collaborate with experienced colleagues on infrastructure projects and modernization work.
+- Evaluate new technologies, including local LLMs and application lifecycle management tools.
 
-## Current Languages I'm Learning
+### Earlier First-Level IT Support Experience
 
-1. **Python:** Exploring its powerful syntax, libraries, and versatile applications in development and data processing.
+- Supported users with IT incidents and service requests.
+- Gained practical experience with Ubuntu/Linux servers, Active Directory, and firewalls.
+- Processed tickets, analysed technical issues, and escalated them when required.
 
-2. **C#:** Strengthening my understanding of object-oriented programming and diving into software development, especially game development using Unity.
+## Professional Projects
 
-## Experience
-### Octogate GmbH | Working Student in IT (08/2024 – Present)
-1. Addressing technical inquiries and resolving issues in first- and second-level support.
-2. Collaborating with development teams to debug and improve system performance.
-3. Gaining hands-on experience with Linux/Ubuntu, Bash scripting, and tools like MySQL.
+### Infrastructure Modernization and Kubernetes Cluster Project Support
+
+Contribute to an infrastructure modernization project, including support for building a Kubernetes cluster. My role focuses on assigned project tasks, practical learning, and close coordination with experienced colleagues.
+
+**Focus areas:** infrastructure operations, Kubernetes project support, Linux, system administration, documentation, and technical coordination.
+
+## Personal and University Projects
+
+### [BunchOfProjects](https://github.com/ViktoriaHb/BunchOfProjects)
+
+A collection of personal and university projects, including:
+
+- **PDF to MP3 Converter** — A Python tool that extracts text from PDF files and converts it to speech audio using PyPDF2 and pyttsx3.
+- **First Adventure Game** — A small 2D game developed with Godot and GDScript.
+- **Turtle Graphics Projects** — Python visual-programming exercises using Turtle and mathematical functions.
 
 ## Skills
 
-1. **Frontend Development:** HTML, JavaScript (Junior)
-2. **DevOps:** C#, C, Linux, Bash, PowerShell, Firewall (Junior)
-3. **Backend Development:** Python, SQL, Prolog, Racket (Associate)
-4. **Version Control:** Git and GitHub for collaborative development and project tracking.
-5. **Libraries and Frameworks:** Unity, Visual Studio, PuTTY
-6. **3D Software:** Blender (Advanced)
-7. **Other Tools:** Microsoft Office (Advanced)
+**IT Operations and Support:** IT service management, endpoint and hardware lifecycle, user, device, and mailbox provisioning, technical documentation, prioritization, and stakeholder communication.
+
+**Systems and Infrastructure:** Active Directory, Linux/Ubuntu fundamentals, firewall and networking fundamentals, Kubernetes project support, certificate-management fundamentals.
+
+**Security:** Security and vulnerability-management fundamentals, password-management-related processes.
+
+**Tools:** Microsoft 365, Teams, Planner, Outlook, Easy Redmine, Git, GitHub, MySQL, Bash, PowerShell, PuTTY.
+
+**Programming:** Python, C#, C, SQL, Prolog, Racket, HTML, JavaScript.
 
 ## Certifications
 
-1. **Python Basics (HackerRank, 2024):** Mastery of scalars, operators, control structures, and object-oriented programming.
-2. **SQL Basics (HackerRank, 2024):** Proficient in crafting queries, managing relationships, and using aggregations.
-
-## My Interests
-
-1. **Console Modding:** I have a keen interest in console modding, tweaking, and enhancing the functionalities of gaming consoles. It's a fascinating intersection of hardware and software.
-
-2. **3D Art:** I'm passionate about creating visual art in the three-dimensional space. Whether it's modeling, texturing, or rendering, I find joy in bringing ideas to life through 3D art.
-
-3. **Programming:** Programming is not just a skill for me; it's a passion. I enjoy the logical challenges and problem-solving aspects of coding. Python and C# are currently capturing my focus, and I'm always eager to learn more and improve my coding skills.
-
-Feel free to reach out if you share similar interests or if you have any insights, suggestions, or collaboration opportunities. Let's connect and learn together!
-<!---
-ViktoriaHb/ViktoriaHb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Python Basics — HackerRank, 2024
+- SQL Basics — HackerRank, 2024
