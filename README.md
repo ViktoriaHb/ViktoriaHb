@@ -7,8 +7,8 @@
 ║  STATUS      : ONLINE                                    ║
 ║  ROLE        : COMPUTER SCIENCE STUDENT                  ║
 ║  LOCATION    : PADERBORN, GERMANY                        ║
-║  CURRENT JOB : IT OPERATIONS & INFRASTRUCTURE             ║
-║  INTERESTS   : SYSTEMS / SECURITY / HARDWARE / GAMES      ║
+║  CURRENT JOB : IT OPERATIONS & INFRASTRUCTURE            ║
+║  INTERESTS   : SYSTEMS / SECURITY / HARDWARE / GAMES     ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
