@@ -28,7 +28,7 @@ This GitHub is essentially my digital workbench: professional projects, universi
 
 ### Working Student in IT Operations & Infrastructure
 **OPTANO GmbH**  
-January 2025 – Present
+January 2025 - Present
 
 - Handle IT service, hardware, and infrastructure requests.
 - Support onboarding and offboarding processes, including user and mailbox provisioning.
@@ -46,7 +46,7 @@ January 2025 – Present
 
 ### First-Level IT Support
 **Octogate GmbH**  
-August 2024 – January 2025
+August 2024 - January 2025
 
 - Supported users with IT incidents and service requests.
 - Gained practical experience with Ubuntu/Linux servers, Active Directory, and firewalls.
@@ -87,7 +87,7 @@ Python visual-programming experiments using Turtle graphics and mathematical fun
 
 Not everything I like working with has an SSD.
 
-I also enjoy diagnosing, repairing, modifying, and restoring older hardware — particularly retro game consoles.
+I also enjoy diagnosing, repairing, modifying, and restoring older hardware - particularly retro game consoles.
 
 There is something strangely satisfying about taking a device that hasn't worked properly in years, figuring out what went wrong, replacing the faulty component, and seeing it come back to life.
 
@@ -168,12 +168,12 @@ Currently working on expanding my practical knowledge of infrastructure, cyberse
 
 ## `07 // CERTIFICATIONS & TRAINING`
 
-- **Introduction to Virtualization – 90 Minute Crash Course** — Udemy, 2025
-- **Introduction to Firewalls – 2 Hour Beginner Crash Course** — Udemy, 2025
-- **Introduction to Computer Networking – Beginner Crash Course** — Udemy, 2025
-- **Linux for Beginners** — Udemy, 2025
-- **Python Basics** — HackerRank, 2024
-- **SQL Basics** — HackerRank, 2024
+- **Introduction to Virtualization – 90 Minute Crash Course** - Udemy, 2025
+- **Introduction to Firewalls – 2 Hour Beginner Crash Course** - Udemy, 2025
+- **Introduction to Computer Networking – Beginner Crash Course** - Udemy, 2025
+- **Linux for Beginners** - Udemy, 2025
+- **Python Basics** - HackerRank, 2024
+- **SQL Basics** - HackerRank, 2024
 
 ---
 
