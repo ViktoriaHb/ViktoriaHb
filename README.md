@@ -148,7 +148,7 @@ And sometimes the solution is, unfortunately, turning it off and on again.
 
 ### Programming
 
-`Python` `C#` `C` `SQL` `Prolog` `Racket` `HTML` `JavaScript`
+`Python` `C#` `C` `SQL` `Prolog` `Racket` `HTML` `JavaScript` `Powershell`
 
 ---
 
