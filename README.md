@@ -14,9 +14,11 @@
 
 I'm a Computer Science student at the University of Paderborn and a working student in IT Operations & Infrastructure.
 
+My work covers a broad range of day-to-day IT operations, including user support, identity and access management, endpoint management, security support, monitoring, infrastructure, and technical administration.
+
 I like figuring out how things work, why they stop working, and what can be done to make them work again.
 
-My interests range from infrastructure, systems administration, and cybersecurity to hardware repair, retro consoles, and game development.
+Outside of work and university, I enjoy hardware repair, retro consoles, game development, homelab experiments, and generally finding new things to take apart.
 
 This GitHub is essentially my digital workbench: professional projects, university work, experiments, documentation, and the occasional project that started with:
 
@@ -30,11 +32,15 @@ Outside of university and IT operations, I tend to collect hobbies that involve 
 
 I enjoy old technology, especially retro consoles, because repairing them feels very different from working with modern hardware. You get to understand what is actually happening instead of simply replacing the entire device.
 
-I also enjoy game development, experimenting with software, and documenting things I learn along the way.
+I also enjoy game development, experimenting with software, building small infrastructure environments, and documenting things I learn along the way.
 
 My general approach to technology is fairly simple:
 
 > If I don't understand how it works, I want to find out.
+
+And if it is broken:
+
+> I probably want to open it.
 
 ---
 
@@ -44,40 +50,103 @@ My general approach to technology is fairly simple:
 
 January 2025 - Present
 
-- Handle IT service, hardware, and infrastructure requests.
-- Support onboarding and offboarding processes, including user and mailbox provisioning.
-- Contribute to endpoint lifecycle management through the replacement, preparation, and administration of notebooks and other hardware.
-- Analyse and prioritize security and vulnerability-related topics.
-- Support certificate and password management activities.
-- Use ticketing and planning systems to organize work transparently and reliably.
-- Collaborate with experienced colleagues on infrastructure projects and modernization initiatives.
-- Evaluate new technologies, including local LLMs and application lifecycle management tools.
+I support the day-to-day IT operation across user support, endpoint management, identity and access management, security, monitoring, infrastructure, and technical administration.
+
+### User Support & Access Management
+
+- Handle IT service, hardware, access, and infrastructure requests.
+- Support onboarding and offboarding processes.
+- Prepare and manage user accounts, access rights, mailboxes, and required systems.
+- Work with Active Directory, Microsoft 365, GitLab, Redmine, VPN, DUO / 2FA, and related access-management processes.
+- Support password, MFA, account, and access-related issues.
+- Maintain and verify user and technical account information.
+- Coordinate access and permission-related questions with internal stakeholders.
+
+### Endpoint & Hardware Management
+
+- Support the preparation, deployment, replacement, return, and documentation of notebooks and other endpoints.
+- Work with smartphones, monitors, docking stations, peripherals, SIM cards, and other IT equipment.
+- Support device replacement and lifecycle processes.
+- Handle Wipe and Recovery processes and maintain recovery media.
+- Prepare and update USB and recovery sticks.
+- Support smartphone and DUO setup.
+- Troubleshoot hardware, device, and connectivity problems.
+- Maintain documentation and records related to equipment and device lifecycle.
+
+### Security & Monitoring
+
+- Review and follow up on security and vulnerability-related notifications.
+- Work with Enginsight and Ninja RMM.
+- Support Sophos and antivirus-related tasks.
+- Perform security checks and recurring technical reviews.
+- Support certificate checks and TLS-related tasks.
+- Assist with DUO / MFA and access-security topics.
+- Investigate firewall, network, and security-related anomalies.
+- Perform recurring VM replication and system checks.
+- Document relevant findings and coordinate follow-up actions with the responsible colleagues.
+
+### Infrastructure & Systems
+
+- Support virtual machine creation, maintenance, and removal.
+- Perform server and system checks.
+- Troubleshoot storage and disk-space issues.
+- Work with Debian and Linux systems.
+- Support Docker and Portainer-related tasks.
+- Work with Nginx and reverse-proxy configurations.
+- Support database and SQL-related tasks.
+- Perform routine Debian patching and maintenance.
+- Manage TLS certificate renewal for web services using Let's Encrypt and Nginx.
+- Support general application and infrastructure maintenance.
+
+### Automation, Reporting & Documentation
+
+- Work on recurring IT tasks and process improvements.
+- Create and maintain scripts for small operational tasks.
+- Work with Power Automate and Planner-related processes.
+- Create technical reports and exports.
+- Work with Redmine and timesheet-related exports.
+- Support inventory and documentation processes.
+- Create and maintain technical documentation, checklists, wiki entries, and process descriptions.
+- Document changes, test results, known issues, solutions, and recurring procedures.
+
+### Monitoring & Internal Projects
+
 - Implemented and operate a self-hosted monitoring solution based on Uptime Kuma to improve visibility into service availability.
 - Developed a lightweight availability-check script providing near-real-time status information for services.
-- Manage TLS certificate renewal for web services using Let's Encrypt and Nginx.
-- Perform routine Debian patching and maintenance to support system stability and security.
-- Support application and infrastructure maintenance to contribute to service reliability and operational continuity.
+- Collaborate with experienced colleagues on infrastructure projects and modernization initiatives.
+- Evaluate new technologies and tools, including local LLMs and application lifecycle management solutions.
+
+---
 
 ### First-Level IT Support - Octogate GmbH
 
 August 2024 - January 2025
 
 - Supported users with IT incidents and service requests.
-- Gained practical experience with Ubuntu/Linux servers, Active Directory, and firewalls.
 - Processed tickets, analysed technical issues, and escalated them when required.
+- Gained practical experience with Ubuntu and Linux servers.
+- Worked with Active Directory.
+- Gained practical experience with firewalls and basic network troubleshooting.
 
 ---
 
 ## `02 // INFRASTRUCTURE`
 
-### Infrastructure Modernization & Kubernetes
+### Infrastructure Modernization
 
-Contribute to an infrastructure modernization project, including introductory work with Kubernetes.
+I contribute to an infrastructure modernization project, supporting assigned technical tasks and working closely with experienced colleagues.
 
-My current Kubernetes experience is focused on learning the fundamentals and gaining practical experience by setting up and experimenting with a small cluster using Docker and Portainer.
+My experience in this area includes Linux systems, virtual machines, Docker, monitoring, networking, documentation, and general system administration.
 
-**Focus areas:**  
-`Infrastructure Operations` `Linux` `Docker` `Portainer` `Kubernetes` `System Administration` `Documentation` `Technical Coordination`
+### Kubernetes - Currently Learning
+
+I'm currently learning the fundamentals of Kubernetes and experimenting with it in a small lab environment.
+
+I have set up and experimented with a small Kubernetes cluster using Docker and Portainer. The focus is currently on understanding how Kubernetes works rather than presenting it as an area of established expertise.
+
+**Current focus:**
+
+`Containers` `Docker` `Portainer` `Kubernetes` `Linux` `Virtual Machines` `System Administration`
 
 ---
 
@@ -91,11 +160,14 @@ For smaller experiments, university projects, prototypes, and assorted things I'
 
 **[Open BunchOfProjects →](https://github.com/ViktoriaHb/BunchOfProjects)**
 
+The repository contains older projects, experiments, game development projects, Python tools, and things that were mainly built to learn something new.
+
 ### Featured Projects
 
 - **PDF to MP3 Converter** - A Python tool that extracts text from PDF files and converts it into speech audio using PyPDF2 and pyttsx3.
 - **First Adventure Game** - A small 2D adventure game developed with Godot and GDScript.
-- **Turtle Graphics Projects** - Python visual-programming experiments using Turtle graphics and mathematical functions.
+- **Turtle Graphics Projects** - Python experiments using Turtle graphics and mathematical functions.
+- **IT Helpdesk Simulator** - A Roblox game currently in development, inspired by the world of IT support.
 
 ### More Experiments
 
@@ -117,20 +189,45 @@ They're all part of how I learn.
 
 Not everything I like working with has an SSD.
 
-I also enjoy diagnosing, repairing, modifying, and restoring older hardware - particularly retro game consoles.
+I also enjoy diagnosing, repairing, modifying, and restoring older hardware - particularly retro game consoles and handhelds.
 
 There is something strangely satisfying about taking a device that hasn't worked properly in years, figuring out what went wrong, replacing the faulty component, and seeing it come back to life.
 
+### Hardware I've Worked On
+
+- Nintendo 2DS
+- Nintendo 3DS
+- Nintendo Wii
+- Nintendo Switch
+- Sony PS4
+- Game controllers
+- Sony Walkman
+
+### Currently On The Workbench
+
+```text
+SONY WALKMAN
+
+STATUS : OPEN
+TASK  : DIAGNOSIS / REPAIR
+LOCATION : PROBABLY COVERED IN SCREWS
+```
+
+### Future Repairs
+
+- Sony PSP
+- PlayStation Vita
+- More retro consoles
+- More handhelds
+- More electronics
+
 My hardware interests include:
 
-- PC and notebook maintenance
-- Hardware diagnostics
-- Server hardware
-- Retro game consoles
-- Console modification
-- Component replacement
-- Hardware customization
-- System restoration
+`Hardware Diagnostics`
+`Component Replacement`
+`Console Modification`
+`Hardware Customization`
+`System Restoration`
 
 I enjoy the combination of electronics, software, troubleshooting, and a little bit of detective work that comes with repairing older technology.
 
@@ -146,35 +243,89 @@ And sometimes the solution is, unfortunately, turning it off and on again.
 
 ### Operating Systems
 
-`Windows` `Windows Server`  
-`Linux` `Ubuntu` `Debian`  
+`Windows` `Windows Server`
+
+`Linux` `Linux Server` `Ubuntu` `Debian`
+
 `WSL`
+
+### Identity & Access
+
+`Active Directory`
+
+`Microsoft 365`
+
+`GitLab`
+
+`Redmine`
+
+`VPN`
+
+`DUO` `MFA` `2FA`
+
+`Keycloak`
+
+### Endpoint & Hardware
+
+`Endpoint Management`
+
+`Hardware Lifecycle`
+
+`Notebook Deployment`
+
+`Smartphone Management`
+
+`Wipe & Recovery`
+
+`Recovery Media`
 
 ### Virtualization & Containers
 
-`Hyper-V` `Virtual Machines`  
-`Docker` `Portainer`
+`Hyper-V`
+
+`Virtual Machines`
+
+`Docker`
+
+`Portainer`
 
 ### Infrastructure & Networking
 
-`Active Directory`  
-`TCP/IP` `DNS` `DHCP`  
-`Firewalls` `SSH`  
-`Nginx` `Let's Encrypt` `TLS / SSL`
+`TCP/IP`
 
-### Identity & Application Infrastructure
+`DNS` `DHCP`
 
-`Keycloak`
+`Firewalls`
+
+`SSH`
+
+`Nginx`
+
+`Reverse Proxy`
+
+`Let's Encrypt`
+
+`TLS / SSL`
+
+### Security & Monitoring
+
+`Enginsight`
+
+`Ninja RMM`
+
+`Sophos`
+
+`SIEM`
+
+`Uptime Kuma`
+
+`Grafana`
+
+`Prometheus`
 
 ### Package & Application Management
 
 `ProGet`
-
-### Monitoring & Security
-
-`Uptime Kuma`  
-`Grafana` `Prometheus`  
-`Enginsight` `SIEM`
 
 ### Infrastructure & Orchestration
 
@@ -182,30 +333,63 @@ And sometimes the solution is, unfortunately, turning it off and on again.
 
 ### IT Operations
 
-`IT Service Management`  
-`Endpoint & Hardware Lifecycle`  
-`Certificate Management`  
-`Patch Management`  
+`IT Service Management`
+
+`User & Access Management`
+
+`Endpoint & Hardware Lifecycle`
+
+`Certificate Management`
+
+`Patch Management`
+
+`Security Checks`
+
 `Technical Documentation`
 
-### Microsoft & Productivity
+`Process Documentation`
 
-`Microsoft 365`  
-`Microsoft Teams`  
-`Outlook`  
-`Planner`  
+### Automation & Productivity
+
+`Power Automate`
+
+`Planner`
+
+`Microsoft Teams`
+
+`Outlook`
+
 `Easy Redmine`
 
 ### Development & Databases
 
-`Git` `GitHub`  
-`MySQL`  
-`Bash` `PowerShell`
+`Git` `GitHub`
+
+`MySQL`
+
+`SQL`
+
+`Bash`
+
+`PowerShell`
 
 ### Programming
 
-`Python` `C#` `C` `SQL`  
-`Prolog` `Racket` `HTML` `JavaScript`
+`Python`
+
+`C#`
+
+`C`
+
+`SQL`
+
+`Prolog`
+
+`Racket`
+
+`HTML`
+
+`JavaScript`
 
 ---
 
@@ -218,10 +402,12 @@ And sometimes the solution is, unfortunately, turning it off and on again.
 [████████████░░░░░░░░]  Containers & Virtualization
 [███████████░░░░░░░░░]  Game Development
 [██████████░░░░░░░░░░]  Electronics & Hardware
-[███░░░░░░░░░░░░░░░░░]  K8s
+[██████░░░░░░░░░░░░░░]  Kubernetes
 ```
 
-Currently expanding my practical knowledge of infrastructure, systems administration, cybersecurity, containers, virtualization, and K8s, while continuing to explore game development and hardware.
+Currently expanding my practical knowledge of infrastructure, systems administration, cybersecurity, containers, virtualization, and hardware.
+
+I'm also gradually learning more about Kubernetes through small hands-on experiments rather than trying to learn everything at once.
 
 There is always something else to learn.
 
@@ -238,7 +424,27 @@ There is always something else to learn.
 
 ---
 
-## `08 // END OF FILE`
+## `08 // CURRENTLY ON THE DESK`
+
+```text
+C:\VIKTORIA> status
+
+[WORK]       IT OPERATIONS
+[STUDY]      COMPUTER SCIENCE
+[REPAIR]     SONY WALKMAN
+[BUILD]      ROBLOX IT HELPDESK SIMULATOR
+[BUILD]      OLD LAPTOP HOMELAB
+[LEARN]      KUBERNETES
+[LEARN]      MORE THINGS THAN PLANNED
+
+C:\VIKTORIA> _
+```
+
+There is usually something being repaired, configured, tested, documented, or accidentally broken.
+
+---
+
+## `09 // END OF FILE`
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
@@ -251,6 +457,7 @@ There is always something else to learn.
 │  VIRTUAL MACHINES      [RUNNING]                         │
 │  CONTAINERS            [RUNNING]                         │
 │  BROKEN HARDWARE       [INVESTIGATING]                   │
+│  IDEAS                 [ACCUMULATING]                    │
 │  COFFEE                [REQUIRED]                        │
 │                                                          │
 ├──────────────────────────────────────────────────────────┤
